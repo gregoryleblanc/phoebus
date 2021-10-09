@@ -72,7 +72,7 @@ a name. The *Window* menu option *Load Layout* offers a list of all saved layout
 switches from the current display layout to a saved one.
 
 Saved, named layouts are stored in files similar to the default ``memento``, but including the name of the
-saved layout. These saved layout memento files can be deleted is no longer needed, copied to different installations,
+saved layout. These saved layout memento files can be deleted if no longer needed, copied to different installations,
 or made read-only to prevent replacement by end users.
 
 Locking the Window Layout
